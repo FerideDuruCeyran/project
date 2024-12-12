@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="172aee95-e2e3-4d00-80c9-0a115c33d83e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/WaterThePlant-main/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/WaterThePlant-main/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterThePlant-main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WaterThePlant-main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaterThePlant-main/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/WaterThePlant-main/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FerideDuruCeyran"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FerideDuruCeyran/project.git",
+    "accountId": "69bcad5a-a341-4069-acc0-967a5cbf27bc"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2q2M76Aw4K4ejkJmzXLptCC3un6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="172aee95-e2e3-4d00-80c9-0a115c33d83e" name="Changes" comment="" />
+      <created>1733856047006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733856047006</updated>
+    </task>
+    <servers />
+  </component>
+</project>
